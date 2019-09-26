@@ -1,0 +1,7 @@
+{
+	"name": "Collapse server folders",
+	"version": "1.0.0",
+	"description": "Press Ctrl-Alt-A to collapse or expand all server folders.",
+	"author": "Cadence#3263",
+	"license": "MIT"
+}
